@@ -1,0 +1,7 @@
+fastapi==0.95.2
+numpy==1.23.3
+pydantic==1.10.2
+requests==2.25.1
+uvicorn==0.22.0
+xgboost
+scikit-learn
